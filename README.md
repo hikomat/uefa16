@@ -1,2 +1,2 @@
 # uefa16
-Messing around UEFA 16 API
+Messing around with an API from the [UEFA 2016 European Cup](http://www.uefa.com/uefaeuro/index.html) website.
